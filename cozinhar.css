@@ -1,0 +1,103 @@
+
+
+body {
+
+    background: url(https://i.pinimg.com/564x/6b/e0/13/6be013473928541325213f6afee090b2.jpg);
+    background-size: auto;
+}
+
+.Receitas {
+    margin-top: -30px;
+    margin-left: -10px;
+    width: 1335px;
+    padding: 25px;
+    background-position: 70px;
+    background-color: #1f564c;
+    border: 2px solid #000;
+    text-shadow: 5px 5px 19px black;
+    list-style: none;
+
+}
+
+#batata {
+    margin-left: 20px;
+    align-items: center;
+    padding-right: 35px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px transparent;
+    display: center;
+    justify-content: space-around;
+    transition: 0.6s
+
+}
+
+h1,
+h2 {
+    margin-top: 50px;
+    text-align: center;
+    text-shadow: black;
+    background-color: #ffffff;
+
+
+}
+
+.boxinicial {
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 490px;
+    height: 330px;
+    margin-top: 4%;
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: 16px;
+
+
+}
+
+#inicialtext {
+    margin-bottom: 50px;
+    margin: 25px;
+    font-size: 25px;
+    text-align: justify;
+
+}
+
+#PrimeiraImagem {
+
+    height: 300px;
+    width: 380px;
+    float: right;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+.boxUL_li {
+    margin-top: 4%;
+    margin-left: 55px;
+    background-color: #ffffff;
+    width: 640px;
+    height: 370px;
+
+}
+
+ul,
+li,
+strong {
+    text-align: left;
+    margin: auto;
+    width: 550px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+
+}
+
+#loirinho {
+    width: 25%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 4%;
+}
